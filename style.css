@@ -1,5 +1,5 @@
 body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana}
+h1{color:grey;font-family:verdana;white-space:nowrap}
 
 .maindiv {
     background-color:white;
@@ -7,6 +7,6 @@ h1{color:grey;font-family:verdana}
     width:300px;
     padding:20px;
     border-radius:25px;
-    white-space: pre-line;
+    white-space: pre;
     align:center
 }
