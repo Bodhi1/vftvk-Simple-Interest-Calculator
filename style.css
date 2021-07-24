@@ -1,6 +1,6 @@
 body {background-color:black;font-family:arial;color:white;}
 h1{color:grey;font-family:verdana;}
-table{margin-left: 80px;align:left;}
+table{margin-left: 80px;align:left;border-spacing: 15px;}
 
 .maindiv {
     background-color:white;
