@@ -9,7 +9,7 @@ function compute()
     if (principal <= 0)
     {
         alert("Enter a positive number");
-        document.getElementById("principal").focus();
+        setTimeout(function() {document.getElementById("principal").focus();}, 0);
     }
     else
     {
