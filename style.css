@@ -4,9 +4,8 @@ h1{color:grey;font-family:verdana;white-space:nowrap}
 .maindiv {
     background-color:white;
     color:black;
-    width:700px;
+    width:2000px;
     padding:20px;
     border-radius:25px;
-    text-indent: 50px;
     align:center
 }
