@@ -12,7 +12,7 @@ function compute()
     }
     else
     {
-        document.getElementById("result").textContent="If you deposit "+principal+",\\nat an interest rate of "+rate+"%\\nYou will receive an amount of "+interest+",\\nin the year "+year+"\\n";
+        document.getElementById("result").textContent="If you deposit "+principal+",\r\nat an interest rate of "+rate+"%\r\nYou will receive an amount of "+interest+",\r\nin the year "+year+"\r\n";
     }
 }
 function updateRate() 
