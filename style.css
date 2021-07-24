@@ -1,10 +1,11 @@
-body {background-color:black;font-family:arial;color:white}
+body {background-color:black;font-family:arial;color:white;}
 h1{color:grey;font-family:verdana;}
+table{margin-left: 100px;}
 
 .maindiv {
     background-color:white;
     color:black;
-    width:1000px;
+    width:800px;
     padding:20px;
     border-radius:25px;
     align:center
