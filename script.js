@@ -13,7 +13,7 @@ function compute()
     }
     else
     {
-        document.getElementById("result").textContent="If you deposit "+'<span class="highlight">'+
+        document.getElementById("result").innerHTML="If you deposit "+'<span class="highlight">'+
             principal+'</span>'+",\r\nat an interest rate of "+'<span class="highlight">'+
             rate+"%"+'</span>'+"\r\nYou will receive an amount of "+'<span class="highlight">'+
             interest+'</span>'+",\r\nin the year "+'<span class="highlight">'+year+'</span>'+"\r\n";
