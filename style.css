@@ -2,7 +2,7 @@ body {background-color:black;font-family:arial;color:white;}
 h1{color:grey;font-family:verdana;}
 table{margin-left: 80px;align:left;}
 #mainTable{border-spacing: 15px;}
-#AnwTable{white-space:pre-line;}
+#AnwTable{white-space:pre-line;border-spacing: 15px;}
 
 .maindiv {
     background-color:white;
